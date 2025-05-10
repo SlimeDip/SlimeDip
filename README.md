@@ -1,8 +1,10 @@
 # Benedict P. Borillo (SlimeDip)
 
-## ⚡ About Me
+## 👨‍💻 About Me
 I'm Benedict P. Borillo, also known online as **SlimeDip** and **Dip**.  
 I'm a  **first-year Computer Science student** at **Batangas State University** with a growing interest in software development and creative coding projects.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlimeDip&layout=compact&theme=dark)
 
 ## 🛠️ Projects & Creations
 
