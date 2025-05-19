@@ -17,6 +17,8 @@ A fun Discord bot packed with entertaining (and sometimes useless) features like
 - Inside jokes
 - Even more gambling
 
+---
+
 ### 🍽️ Kahit Saan
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/SlimeDip/Kahit-Saan)
 
