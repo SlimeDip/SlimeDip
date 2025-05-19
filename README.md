@@ -16,3 +16,8 @@ A fun Discord bot packed with entertaining (and sometimes useless) features like
 - Gacha
 - Inside jokes
 - Even more gambling
+
+### 🍽️ Kahit Saan
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/SlimeDip/Kahit-Saan)
+
+A website for those who dont know where to eat
