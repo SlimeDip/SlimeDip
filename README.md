@@ -23,4 +23,4 @@ A fun Discord bot packed with entertaining (and sometimes useless) features like
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/SlimeDip/Kahit-Saan)
 
 A website for those who dont know where to eat   
-[Visit Kahit Saan](kahit-saan.onrender.com/)
+[Visit Kahit Saan](https://kahit-saan.onrender.com/)
