@@ -6,7 +6,7 @@ I'm a  **first-year Computer Science student** at **Batangas State University** 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlimeDip&layout=compact&theme=dark)   
 
-![Codewars](https://github.r2v.ch/codewars?user=SlimeDip&stroke=%008000_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=SlimeDip&stroke=%23008000_languages=true)
 
 ## 🛠️ Projects & Creations
 
