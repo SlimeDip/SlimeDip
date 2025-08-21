@@ -4,7 +4,7 @@
 I'm Benedict P. Borillo, also known online as **SlimeDip** and **Dip**.  
 I'm a  **first-year Computer Science student** at **Batangas State University** with a growing interest in software development and creative coding projects.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlimeDip&layout=compact&theme=dark)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlimeDip&layout=compact&theme=dark&hide=Tex)   
 
 ![Codewars](https://github.r2v.ch/codewars?user=SlimeDip&top_languages=true&theme=dark)
 
