@@ -26,4 +26,14 @@ A fun Discord bot packed with entertaining (and sometimes useless) features like
 
 A web app for those who dont know where to eat   
 Created using Flask and is hosted in render   
-[Visit Kahit Saan](https://kahit-saan.onrender.com/)
+[Visit Kahit Saan](https://kahit-saan.onrender.com)
+
+---
+
+### 💡 Ai.bunis
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)]([https://github.com/SlimeDip/Kahit-Saan](https://github.com/SlimeDip/Ai.bunis-Chat-Bot))
+
+Ai chatbot, but its abunis   
+Created using Flask and is hosted in render   
+API used is Groq   
+[Visit Ai.bunis](https://ai-bunis-chat-bot.onrender.com)
