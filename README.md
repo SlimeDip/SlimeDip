@@ -6,7 +6,7 @@ I'm a  **second-year Computer Science student** at **Batangas State University**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlimeDip&layout=compact&theme=dark&hide=Tex)   
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SlimeDip)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ZVFoaOo6vz)
 
 ![Codewars](https://github.r2v.ch/codewars?user=SlimeDip&top_languages=true&theme=dark)
 
