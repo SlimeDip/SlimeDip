@@ -33,7 +33,7 @@ Created using Flask and is hosted in render
 ---
 
 ### 💡 Ai.bunis
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)]([https://github.com/SlimeDip/Kahit-Saan](https://github.com/SlimeDip/Ai.bunis-Chat-Bot))
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/SlimeDip/Ai.bunis-Chat-Bot)
 
 Ai chatbot, but its abunis   
 Created using Flask and is hosted in render   
