@@ -1,4 +1,8 @@
 <div align="center">
+	<img src="Image/Banner.png" alt="Banner" style="width:100%;max-width:900px;margin-bottom:20px;" />
+</div>
+
+<div align="center">
 	<h1>Benedict P. Borillo<br>SlimeDip</h1>
 </div>
 
