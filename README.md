@@ -6,10 +6,8 @@
 	<h1>Benedict P. Borillo<br>SlimeDip</h1>
 </div>
 
-<div align="center" style="padding-bottom: 30px;">
-	I'm Benedict P. Borillo, also known online as <b>SlimeDip</b> and <b>Dip</b>.<br>
-	I'm a <b>second-year Computer Science student</b> at <b>Batangas State University</b> with a growing interest in software development and creative coding projects. I also enjoy doing competitive programming.
-</div>   
+I'm Benedict P. Borillo, also known online as <b>SlimeDip</b> and <b>Dip</b>.<br>
+I'm a <b>second-year Computer Science student</b> at <b>Batangas State University</b> with a growing interest in software development and creative coding projects. I also enjoy doing competitive programming.
 
 ---
 
