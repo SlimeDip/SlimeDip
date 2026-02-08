@@ -58,7 +58,7 @@
 	</div>
 	<div style="flex:1;min-width:220px;max-width:420px;">
 		<div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;">
-			<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="36" height="36"/></a>
+			<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="36" height="36"/></a>
 			<a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/></a>
 			<a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
 			<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/></a>
