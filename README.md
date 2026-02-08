@@ -10,6 +10,9 @@
 <div align="center" style="padding-bottom: 30px;max-width:880px;margin-left:auto;margin-right:auto;">
 	I'm a second-year Computer Science student at Batangas State University. I build small tools and creative coding projects, and I practice competitive programming to improve problem-solving skills. I'm open to collaboration and learning new technologies.
 </div>
+<div align="center" style="padding-bottom: 30px;max-width:880px;margin-left:auto;margin-right:auto;">
+	I'm a second-year Computer Science student at Batangas State University. I build small tools and creative coding projects, and I practice competitive programming to improve problem-solving skills. I'm open to collaboration and learning new technologies.
+</div>
 
 ---
 
