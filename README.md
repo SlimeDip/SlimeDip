@@ -13,10 +13,6 @@
 
 ---
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlimeDip&layout=compact&theme=dark&hide=Tex" alt="Top Langs" style="padding: 5px;max-width:460px;">
-	</div>
-
 <h3 align="left">Competitive Programming</h3>
 
 <div align="center" style="margin-top:12px;">
