@@ -84,10 +84,6 @@
 			<td style="padding:8px 10px;"><a href="https://www.linkedin.com/in/benedict-borillo-117295315/" target="_blank" rel="noreferrer">linkedin.com/in/benedict-borillo</a></td>
 		</tr>
 		<tr>
-			<td style="width:110px;padding:8px 10px;">GitHub</td>
-			<td style="padding:8px 10px;"><a href="https://github.com/SlimeDip" target="_blank" rel="noreferrer">github.com/SlimeDip</a></td>
-		</tr>
-		<tr>
 			<td style="width:110px;padding:8px 10px;">Discord</td>
 			<td style="padding:8px 10px;"><a href="https://discord.com/users/593003903298043915" target="_blank" rel="noreferrer">slimedip</a></td>
 		</tr>
