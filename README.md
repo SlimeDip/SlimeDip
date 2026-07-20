@@ -13,8 +13,6 @@
 
 ---
 
-<h3 align="left">Competitive Programming</h3>
-
 <div align="center" style="margin-top:12px;">
 	<table style="border-collapse:collapse;">
 		<tr>
