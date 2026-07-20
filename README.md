@@ -4,11 +4,11 @@
 
 <div align="center">
 	<h1 style="margin:0;">Benedict P. Borillo — SlimeDip</h1>
-	<h2 style="margin:6px 0 0 0;">2nd Year Computer Science Student</h2>
+	<h2 style="margin:6px 0 0 0;">3rd Year Computer Science Student</h2>
 </div>
 
 <div align="center" style="padding-bottom: 30px;max-width:880px;margin-left:auto;margin-right:auto;">
-	I'm a second-year Computer Science student at Batangas State University. I build small tools and creative coding projects, and I practice competitive programming to improve problem-solving skills. I'm open to collaboration and learning new technologies.
+	I'm a third-year Computer Science student at Batangas State University. I build small tools and creative coding projects, and I practice competitive programming to improve problem-solving skills. I'm open to collaboration and learning new technologies.
 </div>
 
 ---
