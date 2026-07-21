@@ -56,24 +56,3 @@
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="35"/></a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30"/></a>
 </p>
-
----
-
-<h3 align="left">Contacts</h3>
-
-<div align="left" style="margin-top:12px;max-width:880px;">
-	<table style="width:100%;border-collapse:collapse;">
-		<tr>
-			<td style="width:110px;padding:8px 10px;">Email</td>
-			<td style="padding:8px 10px;"><a href="mailto:benedictborillo@gmail.com">benedictborillo@gmail.com</a></td>
-		</tr>
-		<tr>
-			<td style="width:110px;padding:8px 10px;">LinkedIn</td>
-			<td style="padding:8px 10px;"><a href="https://www.linkedin.com/in/benedict-borillo-117295315/" target="_blank" rel="noreferrer">linkedin.com/in/benedict-borillo</a></td>
-		</tr>
-		<tr>
-			<td style="width:110px;padding:8px 10px;">Discord</td>
-			<td style="padding:8px 10px;"><a href="https://discord.com/users/593003903298043915" target="_blank" rel="noreferrer">slimedip</a></td>
-		</tr>
-	</table>
-</div>
